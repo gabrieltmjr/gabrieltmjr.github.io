@@ -1,0 +1,31 @@
+/*This is the start of my Cascading Style Sheet document*/
+
+/*Background color of the website*/
+body {
+    background-color: #2f2d2e;
+}
+
+h1, h2, h3, p, li {
+    color: #F0EFF4;
+}
+
+a {
+    color: #6a8d92;
+}
+
+#myPicture {
+    width: 10%;
+}
+
+#myPicture:hover {
+    width: 2%;
+}
+
+.icon {
+    width: 2%;
+}
+
+#popUpButton {
+    background-color: #FF7F00;
+    color: #2f2d2e;
+}
